@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004935572336",
+    "project_id": "parquimetro-4de92",
+    "storage_bucket": "parquimetro-4de92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004935572336:android:266f331fc8b501c5533db5",
+        "android_client_info": {
+          "package_name": "maniacorp.c17130804.parquimetro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004935572336-g64f0o4juitagrjofh0e6jvtojnd4qif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maniacorp.c17130804.parquimetro",
+            "certificate_hash": "a4c1d2b9364cbb8d531c9952351684407d587275"
+          }
+        },
+        {
+          "client_id": "1004935572336-ojuhcgqo6vir6ktgkkof4r525fcopopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhv_EJIMu_i-3EFXMJ8nztslbEXS6_Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004935572336-ojuhcgqo6vir6ktgkkof4r525fcopopc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
